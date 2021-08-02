@@ -1,6 +1,6 @@
 "# ACO" 
 
 
-F_BAlgorithm : HMM back p algorithm and HMM forward algorithm
+F_BAlgorithm : HMM backward algorithm and HMM forward algorithm
 
 Viterbi :Viterbi algorithm 
